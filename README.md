@@ -1,4 +1,11 @@
 # AutoOnboard
+
+## Overview
+
+AutoOnboard is an identity automation workflow that uses Microsoft Forms and Power Automate to provision new users in Entra ID with no manual administrator interaction.
+
+The flow collects onboarding data, normalizes identity attributes, creates the user account, assigns management relationships, and notifies stakeholders automatically.
+
 <img width="958" height="499" alt="image" src="https://github.com/user-attachments/assets/bcb79036-f9a7-4739-bd59-e98741c4fc58" />
 
 
