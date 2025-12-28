@@ -1,6 +1,9 @@
 # AutoOnboard
 <img width="958" height="499" alt="image" src="https://github.com/user-attachments/assets/bcb79036-f9a7-4739-bd59-e98741c4fc58" />
 
+
+<img width="959" height="533" alt="IAMonb" src="https://github.com/user-attachments/assets/ad1d6177-f6e8-4a7c-94ea-2fc8c84df61f" />
+
 1) Create an Onboarding Form (Microsoft Forms)
 
 - Create a form that collects new employee fields such as:
@@ -17,10 +20,12 @@ Personal email (optional)
 
 Any access/role request fields you want to use later
 
-<img width="959" height="533" alt="IAMonb" src="https://github.com/user-attachments/assets/ad1d6177-f6e8-4a7c-94ea-2fc8c84df61f" />
+---
 
 
 <img width="959" height="533" alt="Iamonb1" src="https://github.com/user-attachments/assets/fbe1a827-8c9c-4755-808e-4be74a8ab3ee" />
+
+
 
 2) Build the Power Automate Flow (Trigger + Response Details)
 
@@ -29,6 +34,8 @@ Any access/role request fields you want to use later
 - Trigger: When a new response is submitted (Microsoft Forms)
 
 - Add Action: Get response details
+
+---
 
 <img width="958" height="532" alt="IAMonb4" src="https://github.com/user-attachments/assets/22a1dbe6-93e1-49d2-9988-e2669dcaa13c" />
 
@@ -48,7 +55,10 @@ Password (temporary password if creating cloud-only users)
 
 - This is where you format inputs so user creation won’t fail on schema rules.
 
+---
+
 <img width="959" height="530" alt="IAMonb6" src="https://github.com/user-attachments/assets/370f4c19-ce0f-4ea1-b113-db3f25642065" />
+<img width="956" height="500" alt="IAMonb8" src="https://github.com/user-attachments/assets/df7f7cc6-8c54-4daf-8f9b-e76665078d70" />
 
 4) Test Process Overview
 
@@ -60,11 +70,12 @@ Password (temporary password if creating cloud-only users)
 
 - Confirm Stakeholders are notified upon successful completion.
 
-<img width="956" height="500" alt="IAMonb8" src="https://github.com/user-attachments/assets/df7f7cc6-8c54-4daf-8f9b-e76665078d70" />
+---
+
 <img width="956" height="497" alt="IAMonb9" src="https://github.com/user-attachments/assets/219b1096-0fe1-41b2-8a9c-258e2d70beb6" />
 <img width="959" height="499" alt="IAMonb10" src="https://github.com/user-attachments/assets/7d10c733-10b8-4a82-958a-add87c16b485" />
 
-7) Validate Results in Entra ID
+5) Validate Results in Entra ID
 
 - Confirm the user exists in Entra ID with the expected:
 
@@ -75,3 +86,5 @@ Manager relationship
 Account enabled state
 
 Group Membership
+
+---
