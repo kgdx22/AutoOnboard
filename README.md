@@ -8,7 +8,7 @@ The flow collects onboarding data, normalizes identity attributes, creates the u
 
 ---
 
-## 1️⃣ Create an Onboarding Form (Microsoft Forms)
+## 🧾 1. Create an Onboarding Form (Microsoft Forms)
 
 <img width="958" height="499" alt="image" src="https://github.com/user-attachments/assets/bcb79036-f9a7-4739-bd59-e98741c4fc58" />
 
@@ -33,7 +33,7 @@ Any access/role request fields you want to use later
 
 
 
-## 2️⃣ Build the Power Automate Flow (Trigger + Response Intake)
+## ⚡ 2. Build the Power Automate Flow (Trigger + Response Intake)
 ---
 
 <img width="959" height="533" alt="Iamonb1" src="https://github.com/user-attachments/assets/fbe1a827-8c9c-4755-808e-4be74a8ab3ee" />
@@ -46,7 +46,7 @@ Any access/role request fields you want to use later
 
 - Add Action: Get response details
 
-## 3️⃣ Normalize Identity Inputs  + Build User Values (UPN, Display Name, Mail Nickname)
+## 🔧 3. Normalize Identity Inputs  + Build User Values (UPN, Display Name, Mail Nickname)
 
 ---
 
@@ -68,7 +68,7 @@ Password (temporary password if creating cloud-only users)
 
 - This is where you format inputs so user creation won’t fail on schema rules.
 
-## 4️⃣ Test the End-to-End Automation
+## 🧪 4. Test the End-to-End Automation
 
 ---
 
@@ -85,7 +85,7 @@ Password (temporary password if creating cloud-only users)
 
 - Confirm Stakeholders are notified upon successful completion.
 
-## 5️⃣ Validate Results in Entra ID
+## ✅ 5. Validate Results in Entra ID
 ---
 
 <img width="956" height="497" alt="IAMonb9" src="https://github.com/user-attachments/assets/219b1096-0fe1-41b2-8a9c-258e2d70beb6" />
@@ -105,6 +105,6 @@ Group Membership
 
 ---
 
-## Outcome
+## 📁 Outcome
 
 This workflow demonstrates how identity lifecycle tasks can be automated using native Microsoft tooling to reduce administrative overhead and enforce consistent onboarding standards.
