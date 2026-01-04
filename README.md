@@ -1,4 +1,4 @@
-# Entra-Onboarding-Workflow
+# Entra Onboarding Workflow
 
 ## Overview
 
