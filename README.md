@@ -1,4 +1,4 @@
-# AutoOnboard
+# Entra-Onboarding-Workflow
 
 ## Overview
 
@@ -116,5 +116,5 @@ This workflow demonstrates how identity lifecycle tasks can be automated using n
 
 This onboarding workflow integrates with Microsoft Entra Identity Governance to manage ongoing access, approvals, reviews, and offboarding.
 
-➡️ **Identity Governance & Access Packages Implementation**  
-https://github.com/kgdx22/<NEW-REPO-NAME>
+➡️ **[Identity Governance & Access Packages Implementation](https://github.com/kgdx22/Identity-Governance-Entra)**
+
