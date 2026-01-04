@@ -110,3 +110,11 @@ Group Membership
 ## 📁 Outcome
 
 This workflow demonstrates how identity lifecycle tasks can be automated using native Microsoft tooling to reduce administrative overhead and enforce consistent onboarding standards.
+
+
+## Related Identity Governance Implementation
+
+This onboarding workflow integrates with Microsoft Entra Identity Governance to manage ongoing access, approvals, reviews, and offboarding.
+
+➡️ **Identity Governance & Access Packages Implementation**  
+https://github.com/kgdx22/<NEW-REPO-NAME>
